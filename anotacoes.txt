@@ -1,0 +1,30 @@
+prototipação de tela 
+wireframe
+*vamos aprender na proxima aula*
+
+11/10/2022 - entrega 1
+24/10/2022 - entrega trabalho final - segunda-feira
+
+atributo src n pdoe ser usado com <p>
+
+<img> n fecha
+
+style -> qnd n fecha, ou seja, é inline, é umatributo
+style /style -> qnd fecha ´é uma tag
+
+@p (nao existe)
+
+seletores id, classe e tag (em si)
+css (inline, interno e externo)
+
+atributo lang é no html:
+<html lang="pt-br">
+
+<blockquote> </blockquote> -> citar artigos
+
+
+
+Wireframes
+sao prototipagens...
+
+dica: para criar a apaginam, primeiro desenha ela. Pode ser usado o canva para isso
